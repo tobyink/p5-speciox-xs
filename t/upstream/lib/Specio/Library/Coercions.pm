@@ -2,6 +2,7 @@ package Specio::Library::Coercions;
 
 use strict;
 use warnings;
+## skip Test::Tabs
 
 use parent 'Specio::Exporter';
 

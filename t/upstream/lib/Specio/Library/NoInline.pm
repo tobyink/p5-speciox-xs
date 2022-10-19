@@ -2,6 +2,7 @@ package Specio::Library::NoInline;
 
 use strict;
 use warnings;
+## skip Test::Tabs
 
 use parent 'Specio::Exporter';
 

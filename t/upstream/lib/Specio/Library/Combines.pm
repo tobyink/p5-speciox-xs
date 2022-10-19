@@ -2,6 +2,7 @@ package Specio::Library::Combines;
 
 use strict;
 use warnings;
+## skip Test::Tabs
 
 use parent 'Specio::Exporter';
 
