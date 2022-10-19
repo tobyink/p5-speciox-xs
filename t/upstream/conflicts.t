@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use SpecioX::XS;
+## skip Test::Tabs
 
 use FindBin qw( $Bin );
 use lib "$Bin/lib";

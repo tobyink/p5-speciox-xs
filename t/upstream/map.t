@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use SpecioX::XS;
+## skip Test::Tabs
 
 use Test::More 0.96;
 use Test::Specio qw( test_constraint :vars );

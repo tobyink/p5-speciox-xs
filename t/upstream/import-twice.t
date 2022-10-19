@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use SpecioX::XS;
+## skip Test::Tabs
 
 use Test::Fatal;
 use Test::More 0.96;

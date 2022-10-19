@@ -3,6 +3,7 @@ use warnings;
 use utf8;
 use open ':encoding(UTF-8)', ':std';
 use SpecioX::XS;
+## skip Test::Tabs
 
 use Test::More 0.96;
 

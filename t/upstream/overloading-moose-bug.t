@@ -2,6 +2,7 @@
 use strict;
 use warnings;
 use SpecioX::XS;
+## skip Test::Tabs
 
 use Test::Needs {
     Moose => '2.1207',
